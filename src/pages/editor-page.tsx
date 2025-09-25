@@ -1,10 +1,5 @@
 /* src/pages/editor-page.tsx */
 
- * @file editor-page.tsx
- * @brief Editor page wiring for instance exploration and value editing
- * @author Canmi
- */
-
 import { useParams, useNavigate } from "react-router-dom";
 import { useInstances } from "@/contexts/use-instances";
 import { Sidebar } from "@/components/sidebar";
