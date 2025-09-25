@@ -1,10 +1,5 @@
 /* src/lib/api.ts */
 
- * @file api.ts
- * @brief Namespaced API helpers used by the UI
- * @author Canmi
- */
-
 export type JsonValue =
   | string
   | number
