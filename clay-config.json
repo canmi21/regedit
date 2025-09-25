@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "pnpm build",
+    "remove": "pnpm remove",
+    "dev": "pnpm dev",
+    "lint": "pnpm lint",
+    "install": "pnpm install",
+    "add": "pnpm add",
+    "clean": "pnpm clean",
+    "publish": "pnpm publish"
+  }
+}
