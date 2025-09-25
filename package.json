@@ -1,15 +1,19 @@
 {
   "name": "regedit",
   "private": true,
-  "version": "0.0.1",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "fmt": "prettier --write .",
+    "check": "prettier --check ."
   },
   "dependencies": {
+    "D": "^1.0.0",
+    "prettier": "^3.6.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
