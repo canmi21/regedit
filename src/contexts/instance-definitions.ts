@@ -1,10 +1,5 @@
 /* src/contexts/instance-definitions.ts */
 
- * @file instance-definitions.ts
- * @brief Instance types and InstanceContext definition
- * @author Canmi
- */
-
 import { createContext } from "react";
 
 export interface Instance {
