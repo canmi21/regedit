@@ -1,10 +1,5 @@
 /* src/hooks/use-local-storage.ts */
 
- * @file use-local-storage.ts
- * @brief Simple localStorage hook used by the app
- * @author Canmi
- */
-
 import type React from "react";
 import { useState, useEffect } from "react";
 
